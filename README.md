@@ -1,4 +1,4 @@
-﻿# FraudGuard-Federated-
+﻿# FraudGuard Federated
 🧠 GNN-Based Anomaly Detection Pipeline
 
 This project implements a Graph Neural Network (GNN) model to detect anomalies across multiple datasets, with a special focus on fraud detection in financial data.
@@ -69,3 +69,4 @@ The model continuously identifies suspicious patterns and updates anomaly logs i
 Install all dependencies using:
 
 pip install -r requirements.txt
+
